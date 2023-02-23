@@ -1,0 +1,10 @@
+avro-python3==1.10.2
+certifi==2022.12.7
+charset-normalizer==3.0.1
+grpcio==1.51.1
+grpcio-tools==1.51.1
+idna==3.4
+PyMySQL==1.0.2
+requests==2.28.2
+urllib3==1.26.14
+
